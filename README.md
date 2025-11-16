@@ -8,8 +8,11 @@ This project analyzes the Superstore dataset to evaluate sales and profitability
 
 Create key performance indicators (KPIs):Total Sales,Total Profit,Profit Margin,Total Orders
 -Build dashboard with visual storytelling
+
 -Format all currency and numbers in Indian format (₹)
+
 -Highlight trends and category-specific insights
+
 -Present actionable recommendations through Tableau Story
 
 📊 Data Source
